@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "atark_mobile" "\0"
+            VALUE "FileDescription", "chess_arina" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "atark_mobile" "\0"
+            VALUE "InternalName", "chess_arina" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "atark_mobile.exe" "\0"
-            VALUE "ProductName", "atark_mobile" "\0"
+            VALUE "OriginalFilename", "chess_arina.exe" "\0"
+            VALUE "ProductName", "chess_arina" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

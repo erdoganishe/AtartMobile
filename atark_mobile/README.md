@@ -1,4 +1,4 @@
-# atark_mobile
+# chess_arina
 
 A new Flutter project.
 
